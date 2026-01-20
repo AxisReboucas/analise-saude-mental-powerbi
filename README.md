@@ -27,7 +27,7 @@ https://app.powerbi.com/view?r=eyJrIjoiYzMzNWQ4YzctNDQxNy00MmEzLWIzMWUtZDg3MjdmM
 
 - /dataset → https://data.mendeley.com/datasets/h4kk7nr2cs/1
 - /pbix → arquivo do Power BI
-- /assets → imagens e previews
+
 
 ##  Autor
 Eixo Rebouças
