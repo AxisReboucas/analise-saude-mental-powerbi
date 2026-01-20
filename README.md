@@ -30,6 +30,6 @@ https://app.powerbi.com/view?r=eyJrIjoiYzMzNWQ4YzctNDQxNy00MmEzLWIzMWUtZDg3MjdmM
 - /Linguagens De Programação - DAX e M
 
 ##  Autor
-Eixo Rebouças
+Rodrigo Rebouças
 
 
