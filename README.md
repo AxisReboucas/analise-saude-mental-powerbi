@@ -4,7 +4,7 @@ Projeto - Dashboard de Análise Mental
 # Dashboard de Análise de Saúde Mental
 
 Este projeto apresenta uma análise exploratória e visual de indicadores de saúde mental,
-utilizando Power BI e dados de entrevistas públicas.
+utilizando Power BI e dados de entrevistas públicas realizada na Colômbia.
 
 ##  Objetivos
 - Analisar níveis de depressão, ansiedade, estresse e bem-estar
